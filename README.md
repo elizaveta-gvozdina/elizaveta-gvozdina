@@ -6,7 +6,9 @@
 `SQL` | `Python (Pandas, NumPy, scikit-learn, seaborn, matplotlib)` | `Power BI` | `Tableau` |`Jupyter Notebook`| `Excel`| `R` | `Git` | `GitHub`  
 
 ## Education
-MSc in Engineering Physics (Electronics & Automation) - *National Research Nuclear University MEPhI, Moscow, Russia* (Sept. 2016 - Jan. 2022)
+- **MSc in Engineering Physics (Electronics & Automation)** | `Sept. 2016 - Jan. 2022`<br> 
+National Research Nuclear University MEPhI, Moscow, Russia<br>
+
 
 ## Projects
 
@@ -19,6 +21,10 @@ MSc in Engineering Physics (Electronics & Automation) - *National Research Nucle
 - <!-- Course Project 2 — short description, link -->
 
 ## Experience
+**DUKHOV Automatics Research Institute — Moscow, Russia**  `June 2019 – Aug 2023`
+- **R&D Engineer**:  `Mar 2022 – Aug 2023`  <br>
+- **Engineering Intern (Embedded Systems)**:  `July 2021 – Feb 2022`  <br>
+- **Laboratory Technician / R&D Intern**:  `June 2019 – June 2021`  <br>
 
 ## Certificates
 - [Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/f09e021ddefd869e2bdaa19f7a616394)       –  2025, Coursera
