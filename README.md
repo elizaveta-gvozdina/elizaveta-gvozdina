@@ -5,8 +5,8 @@ Data Analyst | Data Scientist | Quantitative background | 4+ years R&D | MSc Eng
 
 ## Skills
 
-**Analytics:** `statistics` • `EDA` • `metrics` • `data validation`  
-**Data:** `SQL (PostgreSQL, BigQuery)` • `Python (Pandas, NumPy, scikit-learn, XGBoost, scipy)`<br>
+**Analytics:** `Statistics` • `EDA` • `Metrics` • `Data Validation` • `Time-Series Analysis` • `Signal Analysis`<br>
+**Data:** `SQL (PostgreSQL, BigQuery)` • `Python (Pandas, NumPy, scikit-learn, XGBoost, scipy)` • `C programming`<br>
 **BI:** `Power BI` • `Tableau` • `Redash`  
 **Tools:** `Jupyter Notebook` • `VS Code` • `Excel / Google Sheets`  
 
